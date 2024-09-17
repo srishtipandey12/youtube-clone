@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "srishti pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
